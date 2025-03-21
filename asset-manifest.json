@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abxet/calk/static/css/main.c3ce3c29.css",
+    "main.js": "/abxet/calk/static/js/main.452277e9.js",
+    "index.html": "/abxet/calk/index.html",
+    "main.c3ce3c29.css.map": "/abxet/calk/static/css/main.c3ce3c29.css.map",
+    "main.452277e9.js.map": "/abxet/calk/static/js/main.452277e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3ce3c29.css",
+    "static/js/main.452277e9.js"
+  ]
+}
